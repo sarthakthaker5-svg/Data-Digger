@@ -188,6 +188,14 @@ The project demonstrates:
 
 ---
 
+## 🎥 Project Demo Video
+
+Watch the complete project demonstration here:
+
+[▶ Watch Demo Video]()
+
+
+---
 # Author
 
-**Sarthak Thaker**
+**Sarth Thakar**
