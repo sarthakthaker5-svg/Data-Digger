@@ -15,6 +15,22 @@ These tables are connected using **Primary Keys** and **Foreign Keys** to mainta
 
 ---
 
+# Requirements
+
+- MySQL 8.0+
+- MySQL Workbench
+
+---
+
+# Project Structure
+
+Data-Digger/
+│── Data_Digger.sql
+│── README.md
+│── demo.mp4
+
+---
+
 # Features
 
 ## 1. Customer Management
